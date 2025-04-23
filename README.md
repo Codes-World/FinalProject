@@ -75,4 +75,3 @@ CodeWorld is an innovative online learning platform designed to democratize codi
 - CSS
 - Javascript
 - Bootstrap
-- jQuery
