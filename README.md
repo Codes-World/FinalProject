@@ -41,32 +41,6 @@ CodeWorld is an innovative online learning platform designed to democratize codi
 - Including on demand tech courses with interactive practices
 - Has collection of many webpages such as Home, About us, Service, ChatBot etc.
 
-# Website View
-
-![Screenshot (167)](https://github.com/Codes-World/Declare_Input/assets/124446145/69fc3d07-999e-4542-b47b-0bb9432443fb)
-
-![Screenshot (168)](https://github.com/Codes-World/Declare_Input/assets/124446145/c758f3b5-c970-4bdb-9775-f8b8ef29d453)
-
-![Screenshot (169)](https://github.com/Codes-World/Declare_Input/assets/124446145/54ce4f9b-ed05-4933-b0c3-7af68b6633e7)
-
-![Screenshot (170)](https://github.com/Codes-World/Declare_Input/assets/124446145/e419a7d6-1989-4353-8ecd-5cbdb8ffe6da)
-
-![Screenshot (171)](https://github.com/Codes-World/Declare_Input/assets/124446145/57bd6219-891c-4efb-ad02-bb2bf87b3a9f)
-
-![Screenshot (172)](https://github.com/Codes-World/Declare_Input/assets/124446145/b609d38b-2dbb-421e-901e-69229368ad51)
-
-![Screenshot (173)](https://github.com/Codes-World/Declare_Input/assets/124446145/c6281e2a-00e7-4da6-b2bb-2ef6162582cf)
-
-# Azure Services used in Website (Screenshots)
-
-![Screenshot (174)](https://github.com/Codes-World/Declare_Input/assets/124446145/8c382c43-9d12-457d-9f88-cf0c74fdd631)
-
-![Screenshot (175)](https://github.com/Codes-World/Declare_Input/assets/124446145/b3c4f8db-4025-4138-9f10-2d6d32b7d14d)
-
-![Screenshot (176)](https://github.com/Codes-World/Declare_Input/assets/124446145/b7f20d73-7ccf-4106-b958-4359c645dce9)
-
-![Screenshot (177)](https://github.com/Codes-World/Declare_Input/assets/124446145/da95c7ed-cdac-46ef-aca2-7d9cccd88f58)
-
 # Tech Stack
 
 - Azure (Hosting)
