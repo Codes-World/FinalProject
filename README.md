@@ -14,7 +14,7 @@ The core problem that CodeWorld seeks to address is the lack of accessible and e
 - Traditional online courses often fail to maintain student interest, resulting in high dropout rates and poor learning outcomes.
 - One-size-fits-all educational approaches do not cater to the diverse learning needs and paces of individual students.
 
-# Solution of above problem
+# Solution of above problems
 To solve this problem I create a CodeWorld online learning platform which try to solve these issue like 
 
 - CodeWorld is available online, allowing students to access it from anywhere with an internet connection.
@@ -38,7 +38,6 @@ CodeWorld is an innovative online learning platform designed to democratize codi
 # Features & Functionalities
 - Interactive and Responsive website
 - User-Friendly Interface
-- With affordable price
 - Including on demand tech courses with interactive practices
 - Has collection of many webpages such as Home, About us, Service, ChatBot etc.
 
